@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+        System.out.println("Hello World2");
     }
 
     @Override
